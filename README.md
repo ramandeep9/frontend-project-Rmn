@@ -1,4 +1,4 @@
 # frontend-project-Rmn
-This is my Ist repository
+This is my Ist Git repository
 <br>
 Author - Ramandeep
